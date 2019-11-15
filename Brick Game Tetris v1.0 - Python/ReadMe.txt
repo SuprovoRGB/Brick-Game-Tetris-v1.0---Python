@@ -10,7 +10,6 @@ Date    : 15-August-2019
 
 About   : This is 'Tetris Game' written in Python.
           This game is made without seeing any tutorial, logic or hints.
-          The optimization level of this program should be approximately 80% above.
 
 ====================================================================================================
 
